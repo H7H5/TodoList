@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="textcontinue">next</string>
+
+    <string name="tab_text_1">Текущие</string>
+    <string name="tab_text_2">Выполненные</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+</resources>
