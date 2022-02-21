@@ -67,7 +67,7 @@ class ReadDialog extends ParentDialog{
       textDescription.setText(task.getDescription());
       textDateStart.setText((CharSequence) task.getDateStart());
       textDateFinish.setText(task.getDateFinish());
-      textDateEnd.setText(task.getDateFinishLong().toString());
+      textDateEnd.setText(task.getDateEnd());
       btnclose.setOnClickListener(new View.OnClickListener() {
          @Override
          public void onClick(View view) {
